@@ -41,6 +41,7 @@
     <Compile Include="Extend\String.Convert.cs" />
     <Compile Include="Extend\String.ToString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StarryException.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extend\StringBuilder.AppendLine.cs" />
